@@ -4,6 +4,11 @@ title: Joshua Kritz
 subtitle: A game lover researching games
 ---
 
+# Contact  
+---
+j.s.kritz[at]qmul.ac.uk
+---
+
 # A little about me
 I love games, this was the driving force that led me to pursue a career researching and creating games. My interests in games are as broad as the area can be. I believe games have a power unlike any other and researching them through any lens is always fascinating! 
 My background is in Applied Mathematics and Computer Sciences, so this naturally leads my research to a more engineering type. However I have experience as a teacher and using games as a tool for learning and teaching. 
