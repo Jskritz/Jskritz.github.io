@@ -22,6 +22,6 @@ If you would like to know what I did in more detail you can see my [Publications
 [labma-website]: https://labma.ufrj.br/site/#
 [COPPE-website]: https://coppe.ufrj.br/en/home-en/
 [bithotel-website]: bithotel.io
-[publications]: 
-[experience]: 
-[games]: 
+[publications]: https://jskritz.github.io/publications/
+[experience]: https://jskritz.github.io/experience/
+[games]: https://jskritz.github.io/games/
